@@ -19,3 +19,6 @@ git submodule update --depth 10
 git clone https://github.com/PaintLab/pxdev.git --recursive
 ```
 
+
+---
+*Chat Room* : https://gitter.im/paintlab_pxdev/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link
