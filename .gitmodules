@@ -1,9 +1,0 @@
-[submodule "HtmlRenderer"]
-	path = HtmlRenderer
-	url = https://github.com/LayoutFarm/HtmlRenderer.git
-[submodule "PixelFarm"]
-	path = PixelFarm
-	url = https://github.com/PaintLab/PixelFarm.git
-[submodule "Typography"]
-	path = Typography
-	url = https://github.com/LayoutFarm/Typography.git
