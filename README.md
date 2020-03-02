@@ -22,7 +22,7 @@ git clone https://github.com/LayoutFarm/HtmlRenderer.Build.git --recursive
 
 --- 
 
-I you want to create an issue, Please create on an associated repos ... 
+If you want to create an issue, Please create on an associated repos ... 
 
 1) https://github.com/LayoutFarm/HtmlRenderer
 
